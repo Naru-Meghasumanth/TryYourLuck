@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TryYourLuck/static/css/main.d06ff926.css",
+    "main.js": "/TryYourLuck/static/js/main.4f4c6ba3.js",
+    "static/js/453.96d30c3e.chunk.js": "/TryYourLuck/static/js/453.96d30c3e.chunk.js",
+    "index.html": "/TryYourLuck/index.html",
+    "main.d06ff926.css.map": "/TryYourLuck/static/css/main.d06ff926.css.map",
+    "main.4f4c6ba3.js.map": "/TryYourLuck/static/js/main.4f4c6ba3.js.map",
+    "453.96d30c3e.chunk.js.map": "/TryYourLuck/static/js/453.96d30c3e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d06ff926.css",
+    "static/js/main.4f4c6ba3.js"
+  ]
+}
