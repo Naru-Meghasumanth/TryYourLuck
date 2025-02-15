@@ -1,5 +1,5 @@
 {
-  "homepage": "https://naru-meghasumanth.github.io/OptimWorks_Ass",
+  "homepage": "https://naru-meghasumanth.github.io/TryYourLuck",
   
   "name": "luckythreegame",
   
@@ -36,7 +36,10 @@
   
     
   "start": "react-scripts start",
+
+  "predeploy": "npm run build",
   
+  "deploy": "gh-pages -d build",
     
   "build": "react-scripts build",
   
